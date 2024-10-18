@@ -1,0 +1,8 @@
+﻿  main.c
+M:\arduino\robotic arm\Backgammon-AI\Backgammon-master\BackGammonInC\Backgammon\main.c(142,21): warning C4013: 'IsMoveValid' undefined; assuming extern returning int
+M:\arduino\robotic arm\Backgammon-AI\Backgammon-master\BackGammonInC\Backgammon\main.c(151,5): warning C4013: 'SetLastMove' undefined; assuming extern returning int
+M:\arduino\robotic arm\Backgammon-AI\Backgammon-master\BackGammonInC\Backgammon\main.c(105,8): warning C4101: 'moveStr': unreferenced local variable
+M:\arduino\robotic arm\Backgammon-AI\Backgammon-master\BackGammonInC\Backgammon\main.c(201,2): warning C4013: 'GetSetAsString' undefined; assuming extern returning int
+M:\arduino\robotic arm\Backgammon-AI\Backgammon-master\BackGammonInC\Backgammon\main.c(218,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned long', possible loss of data
+M:\arduino\robotic arm\Backgammon-AI\Backgammon-master\BackGammonInC\Backgammon\main.c(219,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Backgammon.vcxproj -> M:\arduino\robotic arm\Backgammon-AI\Backgammon-master\BackGammonInC\x64\Debug\Backgammon.exe

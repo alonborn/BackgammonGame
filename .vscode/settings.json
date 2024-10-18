@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "BackgammonLib/BackgammonLib.sln",
+    "JSON-zain.json.autorefresh": true,
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.autoImportCompletions": false
+}

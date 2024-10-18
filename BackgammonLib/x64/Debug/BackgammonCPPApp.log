@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Backgammon.vcxproj, BackgammonLib.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BackgammonCPPApp.cpp
+M:\arduino\robotic arm\SW\BackgammonLib\Utils.h(10,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(88,1): message : see previous definition of 'INFINITY'
+M:\arduino\robotic arm\SW\BackgammonLib\BackgammonCPPApp.cpp(22,10): warning C4101: 'retVal': unreferenced local variable
+  BackgammonCPPApp.vcxproj -> M:\arduino\robotic arm\SW\BackgammonLib\x64\Debug\BackgammonCPPApp.exe

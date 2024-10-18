@@ -1,0 +1,317 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Backgammon.vcxproj, BackgammonCPPApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  Ai2.cpp
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Utils.h(10,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(88,1): message : see previous definition of 'INFINITY'
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Ai2.cpp(981,58): warning C4018: '<': signed/unsigned mismatch
+  dllmain.cpp
+  Game2.cpp
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,17): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,25): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,37): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,37): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,45): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,45): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,49): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,49): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,53): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,53): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,57): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,57): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,61): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,61): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,65): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,65): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,69): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,69): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,73): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,73): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,77): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,77): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,81): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,81): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,85): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,85): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,89): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,89): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,93): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,93): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,97): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,97): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,101): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,101): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,105): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,105): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,109): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,109): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,113): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,113): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,117): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,117): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,121): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,121): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,125): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,125): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,129): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,129): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,133): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,133): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,137): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,137): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,141): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,141): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,145): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,145): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,149): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,149): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,153): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,153): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,157): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,157): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,161): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,161): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,165): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,165): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,169): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,169): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,173): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,173): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,177): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,177): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,181): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,181): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,185): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,185): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,189): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,189): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,193): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,193): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,197): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,197): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,201): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,201): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,205): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,205): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,209): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(194,209): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,25): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,37): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,37): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,45): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,45): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,49): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,49): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,53): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,53): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,57): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,57): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,61): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,61): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,65): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,65): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,69): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,69): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,73): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,73): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,77): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,77): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,81): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,81): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,85): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,85): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,89): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,89): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,93): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,93): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,97): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,97): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,101): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,101): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,105): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,105): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,109): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,109): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,113): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,113): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,117): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,117): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,121): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,121): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,125): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,125): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,129): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,129): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,133): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,133): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,137): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,137): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,141): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,141): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,145): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,145): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,149): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,149): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,153): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,153): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,157): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,157): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,161): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,161): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,165): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,165): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,169): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,169): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,173): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,173): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,177): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,177): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,181): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,181): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,185): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,185): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,189): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,189): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,193): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,193): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,197): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,197): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,201): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,201): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,205): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,205): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,209): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,209): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,213): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(196,213): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,22): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,22): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,26): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,26): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,30): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,30): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,34): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,34): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,43): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,43): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,47): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,47): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,51): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,51): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,56): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,56): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,60): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,60): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,64): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,64): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,68): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,68): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,73): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,73): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,77): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,77): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,81): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,81): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,85): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,85): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,90): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,90): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,94): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,94): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,98): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,98): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,102): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,102): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,107): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,107): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,111): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,111): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,115): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,115): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,119): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,119): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,124): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,124): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,128): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,128): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,132): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,132): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,136): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,136): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,141): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,141): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,145): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,145): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,149): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,149): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,153): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,153): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,158): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,158): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,162): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,162): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,166): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,166): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,170): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,170): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,175): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,175): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,179): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,179): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,183): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,183): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,187): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,187): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,192): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,192): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,196): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,196): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,200): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,200): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,204): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,204): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,209): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,209): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,213): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,213): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,217): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,217): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,221): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,221): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,226): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(198,226): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(202,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Game2.cpp(203,15): warning C4309: 'initializing': truncation of constant value
+  GameRunner.cpp
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\Utils.h(10,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(88,1): message : see previous definition of 'INFINITY'
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\GameRunner.cpp(300,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned long', possible loss of data
+C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\GameRunner.cpp(301,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hash2.cpp
+  mtwister2.cpp
+  Trainer2.cpp
+  utils2.cpp
+  Generating Code...
+  LINK : C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\x64\Debug\BackgammonLib.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\x64\Debug\BackgammonLib.lib and object C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\x64\Debug\BackgammonLib.exp
+  BackgammonLib.vcxproj -> C:\Users\user\OneDrive\arduino\backgammon\SW\BackgammonGame\BackgammonLib\x64\Debug\BackgammonLib.dll
