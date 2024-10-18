@@ -192,7 +192,7 @@ class ArduinoController:
             self.SendToArduinoTCP("Home")
             self.WaitForConfirmationTCP()
     def ShowText(self):
-        pass
+        pass 
 
     def WaitForPlayer(self):
         self.SendToArduinoTCP("MagnetOff")
